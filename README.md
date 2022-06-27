@@ -1,7 +1,8 @@
 # Dog Shop
 
-Dog Shop
+INTRODUCTION
 
+IMAGES OF SITE 
 
 ## Goals of the site:
 
@@ -80,7 +81,6 @@ Dog Shop
 ### Feature 17 - 
 
 
-
 ## Features to implement in future versions
 
 ### Feature 1
@@ -90,35 +90,61 @@ Dog Shop
 ### Feature 3
 
 
-
-
 ## Technologies used
+
+- HTML5
+
+HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and final major HTML version that is a World Wide Web Consortium recommendation.
+
+- CSS
+
+Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language.
+
+- JavaScript
+
+JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS.
+
+- Python 3.2
+
+Python is a high-level, interpreted, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. 
 
 ### Frameworks, Libraries & Programs
 
 ### Frameworks
 
+- [Django 3.0.1](https://www.djangoproject.com/): 
+
+Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. 
+ 
+- Django All Auth 
+- Django Shortcuts
+- Django Contrib
+- Django Conf
+- Django.db
+
+- Render
+- Redirect
+- Reverse
+- HttpResponse
+- get_object_or_404
+- Path
+- Decimal
+- OS
+
+- [Bootstrap](https://getbootstrap.com/)
+
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
+
 ###  Libraries 
 
+
 ### Programs
-
-- HTML5
-
-- CSS
-
-- JavaScript
-
-- Python 3.2
 
 - [GitHub](https://github.com/) is the repository used for projec codes to be pushed from VSCode.
 
 - [GitPod] was used for version control.
 
 - [Balsamiq](https://balsamiq.com/) used to create user flowmaps during the design process.
-
-- [Django 2.1](https://www.djangoproject.com/): 
-
-- [Bootstrap](https://getbootstrap.com/)
 
 
 ## Testing 
