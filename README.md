@@ -121,6 +121,7 @@ Django is a free and open-source, Python-based web framework that follows the mo
 - Django Contrib
 - Django Conf
 - Django.db
+- Django Crispy Forms 
 
 - Render
 - Redirect
@@ -148,6 +149,18 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 
 ## Testing 
+
+## Stripe (Payments)
+
+1. Visit [Stripe](https://stripe.com/gb) and click 'Start Now'
+2. Register an account following their process
+3. Verify your email address
+4. Copy Stripes JavaScript from their documentation and add into the corejs of all site pages - this increases security and fraud detection from Stripe 
+5. Copy the public key from Stripe and add to your view for checking out / processing a sale
+6. Setup Stripe variable using public key
+7. Create instance for Stripe elements
+8. Use the Stripe element to create a card element 
+9. Attach card element to the targetted div 
 
 
 ## Deployment 
